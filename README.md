@@ -35,7 +35,7 @@ Love from Sweden.
 - [ ] FILE HIDER (including directories - 'everything is a file')
 - [ ] NETWORK CONNECTIONS
 - [ ] RANDOMNESS BACKDOOR
-- [ ] ELEVATION OF PRIVILEGE 
+- [X] ELEVATION OF PRIVILEGE 
 - [X] LKM COMMAND EXECUTION
 - [ ] PERSISTENCE
 
