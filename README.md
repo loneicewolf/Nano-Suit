@@ -14,7 +14,7 @@ specifically
 **A suite of linux-rootkits** \
 Rootkits for Kernel version **`6.19.11`**
 
-**Goal of this** \
+**Goal of this**
 - As I turned 26, I thought "lets make another rootkit for a new kernel, since fedora/qubes updated", and yeah here I am!
 - create original ideas like for example a DISK-HIDER or SECRET-STORAGE.
 
