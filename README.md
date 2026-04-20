@@ -2,9 +2,6 @@
 ♥️ I will be continuing on this! I actually finished the file-hider-rootkit (for fedora, freshly updated 2026) at a hospital stay. (April 17th from the time writing this!) I am soon home though!
 Sending hugs to everyone reading this! \(^v^)/
 
-<img width="3396" height="7136" alt="image" src="https://github.com/user-attachments/assets/37b118dd-9e45-4d4e-b09a-1ebca9318774" /> \
-click to zoom
-
 What does these rootkits work on?
 specifically
 - `Linux fedora 6.19.11-200.fc43.x86_64 #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux`
