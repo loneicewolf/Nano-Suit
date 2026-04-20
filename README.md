@@ -1,4 +1,5 @@
 # Major parts is done!
+# Major TODO: gui creaiton!
 ♥️ I will be continuing on this! I actually finished the file-hider-rootkit (for fedora, freshly updated 2026) at a hospital stay. (April 17th from the time writing this!) I am soon home though!
 Sending hugs to everyone reading this! \(^v^)/
 
